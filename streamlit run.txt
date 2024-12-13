@@ -1,0 +1,1 @@
+streamlit run "C:\Users\vijayalakshmi\OneDrive\Desktop\Genetic Disorder Prediction\genetic_disorder.py"
