@@ -147,7 +147,7 @@ if selected == "Genetic Disorder Prediction":
             prediction2='Rheumatoid arthritis'
         else:
             prediction2='Other Disorder Subclass'
-    # st.write("Genetic Disorder - ",end="")
+    st.write("Genetic Disorder - ",end="")
     st.success(prediction1)
-    # st.write("Disorder Subclass - ")
+    st.write("Disorder Subclass - ")
     st.success(prediction2)
