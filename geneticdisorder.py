@@ -21,7 +21,7 @@ working_dir = os.path.dirname(os.path.abspath(__file__))
 
 # loading the saved models
 
-genetic_disorder_model = pickle.load(open('/genetic_disorder_prediction.sav', 'rb'))
+genetic_disorder_model = pickle.load(open('./genetic_disorder_prediction.sav', 'rb'))
 
 
 # sidebar for navigation
