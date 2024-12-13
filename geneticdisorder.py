@@ -100,6 +100,8 @@ if selected == "Genetic Disorder Prediction":
         a19 = st.text_input('Birth defects')
     # code for Prediction
     genetic_disorder = ''
+    prediction1=''
+    prediction2=''
 
     # creating a button for Prediction    
     if st.button("Genetic Disorder Test Result"):
